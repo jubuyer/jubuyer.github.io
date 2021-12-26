@@ -8,6 +8,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 10px;
+  font-family: 'Lato', sans-serif;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
