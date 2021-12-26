@@ -11,6 +11,7 @@ function App() {
       <About />
       <footer className="footer">
         <p className='footer-text'>© 2021 Jubayer Ahmed</p>
+        <small>Inspired by Isabel Abonitalla</small>
       </footer>
     </div>  
   );
