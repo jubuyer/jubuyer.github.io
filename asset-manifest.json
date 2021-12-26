@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.42c9eb3a.css",
-    "main.js": "/static/js/main.4ea9cf7a.js",
+    "main.css": "/static/css/main.4cd86250.css",
+    "main.js": "/static/js/main.22f97088.js",
     "static/js/787.8a4ae154.chunk.js": "/static/js/787.8a4ae154.chunk.js",
     "static/media/landscape.jpeg": "/static/media/landscape.2099f2dfe26940eaaaec.jpeg",
+    "static/media/wtc.jpeg": "/static/media/wtc.8ae6ec5334cf048a8bf5.jpeg",
+    "static/media/AHMED_JUBAYER_RESUME.pdf": "/static/media/AHMED_JUBAYER_RESUME.498c68fc0ecbd3a17b61.pdf",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.42c9eb3a.css.map": "/static/css/main.42c9eb3a.css.map",
-    "main.4ea9cf7a.js.map": "/static/js/main.4ea9cf7a.js.map",
+    "main.4cd86250.css.map": "/static/css/main.4cd86250.css.map",
+    "main.22f97088.js.map": "/static/js/main.22f97088.js.map",
     "787.8a4ae154.chunk.js.map": "/static/js/787.8a4ae154.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42c9eb3a.css",
-    "static/js/main.4ea9cf7a.js"
+    "static/css/main.4cd86250.css",
+    "static/js/main.22f97088.js"
   ]
 }
