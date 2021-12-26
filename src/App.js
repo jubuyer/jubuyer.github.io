@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+import './index.css';
 import Hero from './components/Hero.jsx'
 import About from './components/About.jsx'
 import Skills from './components/Skills.jsx'
@@ -9,6 +9,9 @@ function App() {
     <div>
       <Hero />
       <About />
+      <footer className="footer">
+        <p className='footer-text'>© 2021 Jubayer Ahmed</p>
+      </footer>
     </div>  
   );
 }
