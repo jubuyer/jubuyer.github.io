@@ -16,4 +16,30 @@
   text-align: center;
   font-size: 4vh;
   color: white;
+  animation: glow 2s ease-in-out infinite alternate;
+}
+
+.lower-text{
+  text-align: center;
+  font-size: 60%;
+  color: white;
+  animation: glow2 2s ease-in-out infinite alternate;
+}
+
+@keyframes glow {
+  from {
+    text-shadow: 0 0 20px rgb(208, 115, 0);
+  }
+  to {
+    text-shadow: 0 0 50px rgb(225, 139,0), 0 0 10px rgb(238, 177, 0);
+  }
+}
+
+@keyframes glow2 {
+  from {
+    text-shadow: 0 0 20px rgb(238, 83, 22);
+  }
+  to {
+    text-shadow: 0 0 50px rgb(228, 78, 8), 0 0 10px rgb(233, 97, 18);
+  }
 }
