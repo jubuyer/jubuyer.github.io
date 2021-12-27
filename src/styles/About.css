@@ -4,26 +4,25 @@
     justify-content: left;
     align-items: flex-start;
     flex-direction: column;
-    margin-left: 1vw;
+    margin-left: 5vw;
     margin-top: 4vh;
 }
 
 .about-container{
-    float: left;
+    float: right;
     line-height: 1.0;
     width: 100%;
     margin-bottom: 8vh;
-    margin-left: 8vw;
 }
 
 .about-block{
     display: flex;
-    justify-content: left;
+    justify-content: right;
+    margin-left: 5vw;
 }
 
 .about-body{
     width: 40%;
-    margin: auto 1vw;
     font-family: 'Lato', sans-serif;
     font-size: 1.1em;
     line-height: 1.4;
