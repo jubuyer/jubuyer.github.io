@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.611693bf.css",
+    "main.css": "/static/css/main.48cd3574.css",
     "main.js": "/static/js/main.c9b6e71b.js",
     "static/js/787.8a4ae154.chunk.js": "/static/js/787.8a4ae154.chunk.js",
     "static/media/landscape.jpeg": "/static/media/landscape.2099f2dfe26940eaaaec.jpeg",
@@ -8,12 +8,12 @@
     "static/media/AHMED_JUBAYER_RESUME.pdf": "/static/media/AHMED_JUBAYER_RESUME.0e39d2e4d043a025a10d.pdf",
     "static/media/J.gif": "/static/media/J.9b30f624d0bf42fe2a52.gif",
     "index.html": "/index.html",
-    "main.611693bf.css.map": "/static/css/main.611693bf.css.map",
+    "main.48cd3574.css.map": "/static/css/main.48cd3574.css.map",
     "main.c9b6e71b.js.map": "/static/js/main.c9b6e71b.js.map",
     "787.8a4ae154.chunk.js.map": "/static/js/787.8a4ae154.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.611693bf.css",
+    "static/css/main.48cd3574.css",
     "static/js/main.c9b6e71b.js"
   ]
 }
