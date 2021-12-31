@@ -17,7 +17,7 @@
   font-size: 4vh;
   color: white;
   animation: glow 2s ease-in-out infinite alternate;
-  line-height: 0.25;
+  line-height: 1;
   padding-top: 15vh;
 }
 
