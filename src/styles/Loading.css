@@ -5,7 +5,9 @@
 }
 
 .image{
-    display: flex;
-    justify-content: space-around;
-    margin-left: 35vw;
+    height: 50vh;
+    position:absolute; 
+	left:50%; 
+	top:50%; 
+	transform:translate(-50%,-50%);
 }
