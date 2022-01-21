@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from "../styles/About.css"
+import "../styles/About.css"
 import WTC from "../assets/about/wtc.jpeg"
 import Resume from "../assets/about/AHMED_JUBAYER_RESUME.pdf"
 
