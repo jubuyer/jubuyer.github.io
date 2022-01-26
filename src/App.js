@@ -6,9 +6,10 @@ import LoadingScreen from './components/Loading.jsx'
 
 function App() {
   const [loading, setLoading] = useState(true)
+  const today = new Date();
 
   useEffect(() => {
-    setTimeout(() => setLoading(false), 6000)
+    setTimeout(() => setLoading(false), 1500)
   }, [])
 
   return (
@@ -18,7 +19,7 @@ function App() {
       <Hero />
       <About />
       <footer className="footer">
-        <p className='footer-text'>© 2021 Jubayer Ahmed</p>
+        <p className='footer-text'>© {today.getFullYear()} Jubayer Ahmed</p>
       </footer>
     </div>
       ) : (
