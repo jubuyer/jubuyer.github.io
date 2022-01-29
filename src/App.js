@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './index.css';
 import Hero from './components/Hero.jsx'
 import About from './components/About.jsx'
+import Photography from './components/Photography';
 import LoadingScreen from './components/Loading.jsx'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
     <div>
       <Hero />
       <About />
+      <Photography />
       <footer className="footer">
         <p className='footer-text'>© {today.getFullYear()} Jubayer Ahmed</p>
       </footer>
