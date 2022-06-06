@@ -1,7 +1,7 @@
 import React from 'react'
 import "../styles/About.css"
 import WTC from "../assets/about/wtc.jpeg"
-import Resume from "../assets/about/AHMED_JUBAYER_RESUME.pdf"
+import Resume from "../assets/about/Jubayer_Ahmed_Resume.pdf"
 
 const About = () => {
     return (
