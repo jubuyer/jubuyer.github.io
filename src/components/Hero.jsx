@@ -1,5 +1,6 @@
 import React, { Component, useEffect } from 'react';
 import styles from "../styles/Hero.css"
+import '../styles/Hero.scss';
 
 const Navbar = () => {
     return (

@@ -8,7 +8,7 @@ const Photography = () => {
   return (
     <div>
       <p>
-        hi
+        bruh?
       </p>
     </div>
     );
