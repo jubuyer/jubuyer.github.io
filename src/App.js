@@ -21,9 +21,14 @@ function App() {
       <Hero />
       <About />
       <Photography />
-      <Resume />
+      {/* <Resume /> */}
       <footer className="footer">
         <p className='footer-text'>© {today.getFullYear()} Jubayer Ahmed</p>
+        <div class="footer-social-links">
+  <a href="https://www.facebook.com/ju.buyer" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+  <a href="https://www.instagram.com/ju.buyer/" title="Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+  <a href="https://www.linkedin.com/in/jubayera/" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
+</div>
       </footer>
     </div>
       ) : (
