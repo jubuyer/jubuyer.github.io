@@ -7,7 +7,7 @@ const About = () => {
     return (
         <div className='about-container'>
             <div className='heading'>
-                <h1>About</h1>
+                <h1>About.</h1>
             </div>
             <div className='about-block'>
                 <p className='about-body'>
@@ -18,7 +18,7 @@ const About = () => {
                     <br></br>
                     <br></br>
                     When not working, I love to play soccer and go running in different areas 
-                    of NYC. I watch professional football and Formula 1 in my free time and take
+                    of NYC. I watch professional football and Formula One in my free time and take
                     photos of where I go.
                     <br></br>
                     <br></br>

@@ -20,12 +20,13 @@ footer {
   justify-content: center;
   flex-direction: column;
   flex-wrap: wrap;  
-  background-color: #b7b6c1;
+  background: linear-gradient(0deg, hsla(205, 46%, 10%, 1) 0%, hsla(207, 41%, 27%, 1) 50%,hsla(191, 28%, 23%, 1) 100%);
   text-align: center;
   margin-top: 50px;
-  padding: 20px;
+  padding: 30px;
   font-family: 'Lato', sans-serif;
   bottom: 0;
+  color: white;
 }
 
 code {
@@ -45,7 +46,7 @@ text-align: center;
   margin: 10px;
   text-align: center;
   display: inline-block;
-  color: #111;
+  color: #BBB7E6;
   
   -webkit-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000);  
   -moz-transition: all 0.27s cubic-bezier(0.300, 0.100, 0.580, 1.000); 
