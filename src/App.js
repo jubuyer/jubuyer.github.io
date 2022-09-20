@@ -21,7 +21,7 @@ function App() {
       <Hero />
       <About />
       <Photography />
-      {/* <Resume /> */}
+      <Resume />
       <footer className="footer">
         <p className='footer-text'>© {today.getFullYear()} Jubayer Ahmed</p>
         <div class="footer-social-links">
